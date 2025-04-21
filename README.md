@@ -47,16 +47,6 @@ python manage.py runserver
 ~~~
 
 
-## 📋 Endpoints principales
-
-| Método | Endpoint | Acción |
-|----------|----------|----------|
-| GET  | url  | Listar todos los contactos  |
-| POST    | url   | Crear un nuevo contacto   |
-| GET-ID   | url   | Obtener un contacto específico   |
-| UPDATE  | url  | Actualizar un contacto   |
-| DELETE   | url  | Eliminar un contacto   |
-
 ## Modelo de Contacto
 - Nombre (name)
 - Email (email)
